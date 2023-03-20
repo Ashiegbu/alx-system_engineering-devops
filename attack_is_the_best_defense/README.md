@@ -1,3 +1,3 @@
 # Attack is the best defense
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/01c5a1e3f29d290b188d34be5cf534d3255058a7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230320T174939Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=22ee69202883c644725003774120f1b78e1468ae65a9ab717677b176b04cb461)
+![image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/01c5a1e3f29d290b188d34be5cf534d3255058a7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230320T174939Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=22ee69202883c644725003774120f1b78e1468ae65a9ab717677b176b04cb461)
