@@ -1,5 +1,5 @@
 # Configuration management
-A project of **ALX Software Engineering program** with the aim to learn about server configuration management using **Puppet**.
+A project of the **ALX Software Engineering program** with the aim of getting students to learn about server configuration management using **Puppet**.
 
 ## Technologies
 * Scripts written in Bash 4.3.11(1)
