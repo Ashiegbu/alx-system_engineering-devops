@@ -2,7 +2,7 @@
 
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/265/uWLzjc8.jpg)
 
-A project of the **ALX Software Engineering Program**. Students are meant to learn about how to debug a webstack.
+A project of the **ALX Software Engineering Program** structured to get students learn about how to debug a webstack.
 
 ## Technologies
 * Scripts written in Bash 4.3.11(1)
