@@ -1,0 +1,2 @@
+# API
+Directory contains files associated with the **ALX Software Engineering program** project "0x15. API". The learning objectives of this project includes what Bash scripting should not be used for, what an API is, what a REST API is, what microservices are, what the CSV format is, what the JSON format is, Pythonic Package and module name style, Pythonic Class name style, Pythonic Variable name style, Pythonic Function name style, Pythonic Constant name style and Significance of CapWords or CamelCase in Python".
