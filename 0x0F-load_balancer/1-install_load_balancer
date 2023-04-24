@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-# Script that configures HAproxy in a load balancer 
-apt-get -y install software-properties-common
-add-apt-repository -y ppa:vbernat/haproxy-2.0
-apt-get -y update
-apt-get -y install haproxy=2.0.\*
-echo -e "\nfrontend http\n\tbind *:80\n\tmode http\n\tdefault_backend web-backend\n\nbackend web-backend\n\tbalance roundrobin\n\tserver 151178-web-01 100.26.237.139:80 check\n\tserver 151178-web-02 100.25.154.57:80 check" >> /etc/haproxy/haproxy.cfg
-service haproxy restart
+# Installs nginx and adds custom header X-Served-By
+# shellcheck disable=SC2154
+sudo apt-get update
+sudo apt-get -y install nginx
+sudo service nginx start
+sudo sed -i "22 i \    add_header X-Served-By $HOSTNAME;" /etc/nginx/nginx.conf
+sudo service nginx restart
